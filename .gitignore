@@ -5,6 +5,7 @@
 /gulpfile.js
 /package.json
 /package-lock.json
+/src/sass
 
 # testing
 /coverage
